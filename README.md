@@ -5,6 +5,7 @@ Photographic memories of the fourth room that housed the [C3D2.de hackspace](htt
 ## /proc
 
 ![/proc](proc/panorama.jpg)
+![/proc kitchen](proc-kitchen/panorama.jpg)
 
 ## Sauberwerkstatt
 
